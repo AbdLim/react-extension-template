@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Senoto",
+    "version": "1.0.0",
+    "description": "This is my description",
+    "icons": {
+        "16": "icon.png",
+        "46": "icon.png",
+        "128": "icon.png"
+    }
+}
